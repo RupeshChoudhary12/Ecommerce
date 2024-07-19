@@ -44,7 +44,7 @@ const MusicExperience = () => {
   });
 
   return (
-    <div className="container mx-auto px-15 mt-16 flex flex-row items-center justify-center">
+    <div className="container mx-auto px-24 mt-16 flex flex-row items-center justify-center">
       <div className="bg-black  text-white rounded-lg flex flex-col lg:flex-row items-center p-8">
         <div className="lg:w-1/2 text-left">
           <h2 className="text-green-500 text-lg font-semibold">Categories</h2>
