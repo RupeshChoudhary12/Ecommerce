@@ -102,10 +102,10 @@ const Footer = () => {
                 <img className="w-24 h-24" src={qr} alt="" />
               </div>
 
-              <div className="flex    w-20">
+              <div className="flex flex-col    w-20">
                 {" "}
                 <img className="h-20" src={store} alt="Google Play Store" />
-                <img className="h-20" src={app} alt="App Store" />
+                {/* <img className="h-20" src={app} alt="App Store" /> */}
               </div>
             </div>
             <div class="flex space-x-4 mt-4">
